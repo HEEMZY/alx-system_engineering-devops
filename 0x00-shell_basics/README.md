@@ -1,2 +1,2 @@
 #!/bin/bash
-push
+pwd
